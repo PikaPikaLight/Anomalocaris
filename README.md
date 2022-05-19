@@ -1,6 +1,6 @@
-# Anomanocaris Robot
+# Anomalocaris Robot
 
-[たなかじゅんさん](https://twitter.com/juntnk)の書籍[「ナッちゃんの図解でわかるものづくりはパズル」](https://www.amazon.co.jp/dp/B07PBX87GJ/ref=cm_sw_em_r_mt_dp_GG2PPCP7PMJ3PVA7AAYX)に出てくるアノマノカリスロボを３Dプリンタで作成可能な機構に落とし込みました。
+[たなかじゅんさん](https://twitter.com/juntnk)の書籍[「ナッちゃんの図解でわかるものづくりはパズル」](https://www.amazon.co.jp/dp/B07PBX87GJ/ref=cm_sw_em_r_mt_dp_GG2PPCP7PMJ3PVA7AAYX)に出てくるアノマロカリスロボを３Dプリンタで作成可能な機構に落とし込みました。
 
 <div align="left">
 <img src="images/pic0.png" >
